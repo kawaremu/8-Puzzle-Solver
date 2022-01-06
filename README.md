@@ -6,3 +6,7 @@ The famous **8-puzzle** game,which is a sliding puzzle that consists of a frame 
 
 # Why the A* algorithm ?
 
+# Screenshots of the game
+
+![This is an image](img/initial_state.png)
+
